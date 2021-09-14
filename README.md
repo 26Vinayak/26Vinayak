@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=26Vinayak&show_icons=true&theme=dark)
+
 <!--
 **26Vinayak/26Vinayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
